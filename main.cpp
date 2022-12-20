@@ -11,7 +11,7 @@ int main()
 	start_driver();
 	cout << endl;
 
-	face_injecor_v2(xor_a("UnrealWindow"), xor_w(L"loli.dll"));
+	face_injecor_v2(xor_a("UnrealWindow"), xor_w(L"test.dll"));
 
 	cout << endl;
 	system("pause");
